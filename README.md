@@ -1,0 +1,2 @@
+# multitab-blocker
+Cutting edge browsers support multiple tabs feature &amp; share the same HTTP session across them. Even though this is very useful feature, some legacy applications behave vulnerably if transaction information store in session. In such cases &amp; maybe in other special cases, it is require user to be forced work in a single tab. This project is to demonstrate the advance techniques shall be use in such requirement &amp; continuously improve the solution. 
